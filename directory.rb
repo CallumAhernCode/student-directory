@@ -1,3 +1,5 @@
+#list of students
+
 puts "The students of Villans Academy"
 puts "---------"
 puts "Dr. Hannibal Lecter"
@@ -11,3 +13,9 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+
+# number of students
+
+print "Overall we have "
+print 11
+puts " new students"
