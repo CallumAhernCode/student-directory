@@ -16,6 +16,4 @@ puts "Norman Bates"
 
 # number of students
 
-print "Overall we have "
-print 11
-puts " new students"
+puts "Overall we have #{student_count} great students"
